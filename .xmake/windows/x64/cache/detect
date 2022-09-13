@@ -1,0 +1,8 @@
+{
+    find_program = {
+        git = "git",
+        tar = "tar",
+        gzip = "gzip",
+        unzip = "unzip"
+    }
+}

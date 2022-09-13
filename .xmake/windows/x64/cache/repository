@@ -1,0 +1,8 @@
+{
+    repositories = {
+        koiso = {
+            "https://github.com/koi-so/pkgindex.git",
+            "main"
+        }
+    }
+}

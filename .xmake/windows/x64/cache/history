@@ -1,0 +1,8 @@
+{
+    cmdlines = {
+        "xmake repo --add koiso git@github.com:koi-so/pkgindex.git",
+        "xmake repo --add koiso https://github.com/hexsocean/pkgindex.git",
+        "xmake repo --add koiso https://github.com/koi-so/pkgindex.git",
+        "xmake repo --add koiso https://github.com/koi-so/pkgindex.git main"
+    }
+}
