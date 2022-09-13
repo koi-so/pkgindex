@@ -3,7 +3,7 @@ set_homepage("https://github.com/koi-so/zinc")
 set_description("The zinc package")
 
 add_urls("https://github.com/koi-so/zinc.git")
-add_versions("0.01", "1da98be6511961eee5f4be597b962331094ea0d1")
+add_versions("0.01", "05f8af1c45ceb9ed0484f66b34ede02176d9852a")
 
 on_install(function(package)
 	local configs = {}

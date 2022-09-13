@@ -3,6 +3,7 @@
         "xmake repo --add koiso git@github.com:koi-so/pkgindex.git",
         "xmake repo --add koiso https://github.com/hexsocean/pkgindex.git",
         "xmake repo --add koiso https://github.com/koi-so/pkgindex.git",
-        "xmake repo --add koiso https://github.com/koi-so/pkgindex.git main"
+        "xmake repo --add koiso https://github.com/koi-so/pkgindex.git main",
+        [[xmake l c:\Users\61436\.vscode\extensions\tboox.xmake-vscode-1.7.4\assets\explorer.lua]]
     }
 }
