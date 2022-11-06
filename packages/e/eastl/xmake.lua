@@ -4,7 +4,6 @@ package("eastl")
     set_license("BSD-3-Clause")
 
     add_urls("https://github.com/koi-so/EASTL/archive/$(version).tar.gz")
-    add_versions("3.18.01", "19a88692bed1797cd98e97df862e8ccfff0f0489")
 
     -- add_deps("cmake")
     add_deps("eabase")
