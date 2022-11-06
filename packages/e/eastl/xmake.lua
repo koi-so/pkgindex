@@ -3,7 +3,7 @@ package("eastl")
     set_description("EASTL stands for Electronic Arts Standard Template Library.")
     set_license("BSD-3-Clause")
 
-    add_urls("https://github.com/koi-so/EASTL/archive/$(version).tar.gz")
+    add_urls("https://github.com/koi-so/EASTL.git")
 
     -- add_deps("cmake")
     add_deps("eabase")

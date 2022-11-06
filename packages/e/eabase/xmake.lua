@@ -6,7 +6,7 @@ package("eabase")
     )
     set_license("BSD-3-Clause")
 
-    add_urls("https://github.com/koi-so/EABase/archive/$(version).tar.gz")
+    add_urls("https://github.com/koi-so/EABase.git")
 
     on_install("windows", "linux", "macosx", function(package)
         os.cp("include/Common/EABase", package:installdir("include"))
